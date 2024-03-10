@@ -49,22 +49,6 @@
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 98.3 kB Used in GitHub's Storage 
- > 
-> 🏆 53 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -112,10 +96,6 @@ Jupyter Notebook         2 repos             ███████████�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/lalutir/lalutir/main/assets/bar_graph.png)
-
-
- Last Updated on 10/03/2024 19:07:42 UTC
+ Last Updated on 10/03/2024 19:11:39 UTC
 <!--END_SECTION:waka-->
