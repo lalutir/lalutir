@@ -23,6 +23,7 @@
 
 ### Portfolio
 - I have a GitHub pages portfolio, [click here!](https://lalutir.github.io/)
+  - I have also uploaded a GitHub pages for my f1-analysis project, [click here!](https://lalutir.github.io/f1-analysis)
 
 #
 
