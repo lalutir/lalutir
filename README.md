@@ -28,6 +28,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the World of Formula 1 Data Analysis with f1-analysis](https://medium.com/@lars.l.timmer/exploring-the-world-of-formula-1-data-analysis-with-f1-analysis-b4020dec8d72?source=rss-5f654543d964------2)
 <!-- BLOG-POST-LIST:END -->
 
 #
