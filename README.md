@@ -107,4 +107,4 @@ Jupyter Notebook         2 repos             ███████████�
  Last Updated on 10/03/2024 19:11:39 UTC
 <!--END_SECTION:waka-->
 
-![Snake animation](https://github.com/thepiyushmalhotra/lalutir/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lalutir/lalutir/blob/output/github-contribution-grid-snake.svg)
