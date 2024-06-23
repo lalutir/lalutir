@@ -11,7 +11,7 @@
 
 #
 
-- 🔭 I’m currently working on [Football-match-predictions](github.com/lalutir/Football-match-predictions)
+- 🔭 I’m currently working on [Football-match-predictions](https://github.com/lalutir/Football-match-predictions)
 
 - 🌱 I’m currently studying **Applied Data Science and Artificial Intelligence**
 
