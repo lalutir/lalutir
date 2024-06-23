@@ -21,9 +21,10 @@
 
 ### Portfolio
 - I have a GitHub pages portfolio, [click here!](https://lalutir.github.io/)
-<!--  - I have also uploaded a GitHub pages for my f1-analysis project, [click here!](https://lalutir.github.io/f1-analysis) -->
   - I have also uploaded a GitHub pages for my Football-match-predictions, [click here!](https://lalutir.github.io/Football-match-predictions)
 
+<!--  - I have also uploaded a GitHub pages for my f1-analysis project, [click here!](https://lalutir.github.io/f1-analysis) -->
+  
 #
 
 <!-- ### Blog posts -->
