@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lars</h1>
-<h3 align="center">I'm a data enthusiast with a passion for sports analytics</h3>
+<h3 align="center">I'm a data enthusiast with a passion for sports</h3>
 
 #
 
@@ -15,22 +15,20 @@
 
 - 🌱 I’m currently studying **Applied Data Science and Artificial Intelligence**
 
-- 👯 I’m looking to collaborate **on projects involving data analysis, especially in sports. My interests lie in Formula 1, football (soccer), and hockey (field-hockey).**
-
 - 📫 How to reach me **lars.l.timmer@gmail.com**
 
 #
 
 ### Portfolio
 - I have a GitHub pages portfolio, [click here!](https://lalutir.github.io/)
-  - I have also uploaded a GitHub pages for my f1-analysis project, [click here!](https://lalutir.github.io/f1-analysis)
+<!--  - I have also uploaded a GitHub pages for my f1-analysis project, [click here!](https://lalutir.github.io/f1-analysis) -->
   - I have also uploaded a GitHub pages for my Football-match-predictions, [click here!](https://lalutir.github.io/Football-match-predictions)
 
 #
 
-### Blog posts
+<!-- ### Blog posts -->
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the World of Formula 1 Data Analysis with f1-analysis](https://medium.com/@lars.l.timmer/exploring-the-world-of-formula-1-data-analysis-with-f1-analysis-b4020dec8d72?source=rss-5f654543d964------2)
+<!-- - [Exploring the World of Formula 1 Data Analysis with f1-analysis](https://medium.com/@lars.l.timmer/exploring-the-world-of-formula-1-data-analysis-with-f1-analysis-b4020dec8d72?source=rss-5f654543d964------2) -->
 <!-- BLOG-POST-LIST:END -->
 
 #
@@ -45,7 +43,7 @@
 <a href="https://twitter.com/lt079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lt079" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lars_timmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lars timmer" height="30" width="40" /></a>
 <a href="https://instagram.com/larsltimmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="larsltimmer" height="30" width="40" /></a>
-<a href="https://medium.com/@lars.l.timmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lars.l.timmer" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@lars.l.timmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lars.l.timmer" height="30" width="40" /></a> -->
 </p>
 
 #
