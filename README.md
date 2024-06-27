@@ -24,15 +24,8 @@
   - I have also uploaded a GitHub pages for my Football-match-predictions, [click here!](https://lalutir.github.io/Football-match-predictions)
 
 <!--  - I have also uploaded a GitHub pages for my f1-analysis project, [click here!](https://lalutir.github.io/f1-analysis) -->
-  
-#
 
-<!-- ### Blog posts -->
-<!-- BLOG-POST-LIST:START -->
-- [Exploring the World of Formula 1 Data Analysis with f1-analysis](https://medium.com/@lars.l.timmer/exploring-the-world-of-formula-1-data-analysis-with-f1-analysis-b4020dec8d72?source=rss-5f654543d964------2)
-<!-- BLOG-POST-LIST:END -->
-
-#
+# 
 
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/lalutir" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
