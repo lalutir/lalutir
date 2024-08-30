@@ -98,16 +98,16 @@ Sunday                   123 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Documents                2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -120,6 +120,6 @@ Python                   1 repo              █████░░░░░░�
 
 
 
- Last Updated on 29/08/2024 18:41:24 UTC
+ Last Updated on 30/08/2024 18:41:35 UTC
 <!--END_SECTION:waka-->
 
