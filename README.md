@@ -7,10 +7,6 @@
 
 #
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalutir" alt="lalutir" /></a> </p>
-
-#
-
 <!-- - 🔭 I’m currently working on [Football-match-predictions](https://github.com/lalutir/Football-match-predictions) -->
 
 - 🌱 I’m currently studying **Applied Data Science and Artificial Intelligence**
