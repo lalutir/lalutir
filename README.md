@@ -11,7 +11,7 @@
 
 #
 
-- 🔭 I’m currently working on [Football-match-predictions](https://github.com/lalutir/Football-match-predictions)
+<!-- - 🔭 I’m currently working on [Football-match-predictions](https://github.com/lalutir/Football-match-predictions) -->
 
 - 🌱 I’m currently studying **Applied Data Science and Artificial Intelligence**
 
@@ -21,7 +21,7 @@
 
 ### Portfolio
 - I have a GitHub pages portfolio, [click here!](https://lalutir.github.io/)
-  - I have also uploaded a GitHub pages for my Football-match-predictions, [click here!](https://lalutir.github.io/Football-match-predictions)
+  <!-- - I have also uploaded a GitHub pages for my Football-match-predictions, [click here!](https://lalutir.github.io/Football-match-predictions) -->
 
 <!--  - I have also uploaded a GitHub pages for my f1-analysis project, [click here!](https://lalutir.github.io/f1-analysis) -->
 
@@ -37,7 +37,7 @@
 <a href="https://twitter.com/lt079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lt079" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lars_timmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lars timmer" height="30" width="40" /></a>
 <a href="https://instagram.com/larsltimmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="larsltimmer" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@lars.l.timmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lars.l.timmer" height="30" width="40" /></a> -->
+<a href="https://medium.com/@lars.l.timmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lars.l.timmer" height="30" width="40" /></a>
 </p>
 
 #
