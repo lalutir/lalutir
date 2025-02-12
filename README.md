@@ -11,13 +11,15 @@
 
 - 🌱 I’m currently studying **Applied Data Science and Artificial Intelligence**
 
+- 📊 I'm currently working on predicting Vanguard's S&P500
+
 - 📫 How to reach me **lars.l.timmer@gmail.com**
 
 #
 
 ### Portfolio
 - I have a GitHub pages portfolio, [click here!](https://lalutir.github.io/)
-  <!-- - I have also uploaded a GitHub pages for my Football-match-predictions, [click here!](https://lalutir.github.io/Football-match-predictions) -->
+  I have also uploaded a GitHub pages for my Predicting the S&P500, [click here!](https://lalutir.github.io/predicting-s-p-500)
 
 <!--  - I have also uploaded a GitHub pages for my f1-analysis project, [click here!](https://lalutir.github.io/f1-analysis) -->
 
